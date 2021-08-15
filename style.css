@@ -1,0 +1,42 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+
+}
+
+body{
+    margin: 0;
+    background-color: gray;
+
+}
+
+.header{
+    height: 90px;
+    background-color: orange;
+    display: flex;
+}
+
+.img-header{
+    height: 90px;
+    margin-left:2vw;
+}
+.menu-container{
+    margin-left: auto;
+    display: flex;
+}
+.menu-item{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 2vw;
+    
+}
+.menu-item a{
+    background-color: chocolate;
+    padding: 2px;
+    
+}
+
+.big-image{
+    height:300px;
+
+}
